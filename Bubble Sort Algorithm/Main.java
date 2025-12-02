@@ -33,6 +33,7 @@ public class Main {
 
         // Outer loop: runs for every element in the array.
         // After each pass, the largest element moves to the end.
+        
         for (int i = 0; i < arr.length; i++) {
 
             int j = 1;  // starting from index 1 to compare with j-1 (previous element)
