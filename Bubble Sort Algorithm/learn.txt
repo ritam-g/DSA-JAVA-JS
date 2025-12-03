@@ -1,0 +1,26 @@
+🎨 Colorful Short Note on Bubble Sort
+🔵 What is Bubble Sort?
+
+Bubble Sort is a simple sorting method.
+
+It compares adjacent elements and swaps if needed.
+
+🟢 How it works?
+
+Compare arr[j] and arr[j+1]
+
+If left > right → swap
+
+Largest element goes to the end in each pass (it “bubbles up”).
+
+🟡 Time Complexity:
+
+Best: O(n)
+
+Worst: O(n²)
+
+Space: O(1) (in-place)
+
+🔴 Why is it called Bubble Sort?
+
+Because large elements move up like a bubble to the top.

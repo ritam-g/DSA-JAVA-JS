@@ -1,0 +1,32 @@
+🎨 QUICK REVISION NOTES — SELECTION SORT
+🔵 Definition
+
+Selection Sort is a simple sorting algorithm that works by repeatedly finding the minimum/maximum element from the unsorted part and placing it at its correct position.
+
+🟡 How Selection Sort Works (Step-by-Step)
+
+1️⃣ Start from index 0
+2️⃣ Find the max/min index in the remaining array
+3️⃣ Swap with the correct position
+4️⃣ Shrink the unsorted part
+5️⃣ Repeat until the array is sorted
+
+🟢 Key Points (Very Important)
+
+Works by selecting the max/min element each round
+
+Swapping happens only once per pass (efficient)
+
+Easy to understand
+
+Not good for large data
+
+🔴 Time & Space Complexity
+Case	Complexity
+🔵 Best Case	O(n²)
+🔴 Worst Case	O(n²)
+🟡 Average Case	O(n²)
+🟢 Space	O(1) (In-place)
+🟣 Why is it called "Selection" Sort?
+
+Because each round you select the largest/smallest element from the unsorted section.
