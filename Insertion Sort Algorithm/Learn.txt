@@ -1,0 +1,49 @@
+===========================
+      INSERTION SORT
+===========================
+
+Definition:
+Insertion Sort builds the final sorted array by taking one element
+at a time and inserting it into its correct position.
+
+How It Works:
+1. Start from index 1 (index 0 is already sorted)
+2. Pick the element (temp)
+3. Compare it with elements on the left
+4. Shift all larger elements one step to the right
+5. Insert temp into correct position
+6. Repeat for all elements
+
+Key Points:
+- Simple and easy to implement
+- Good for small or nearly sorted arrays
+- Works like sorting playing cards in your hand
+
+Time Complexity:
+- Best Case: O(n)
+- Average Case: O(n^2)
+- Worst Case: O(n^2)
+- Space: O(1) (in-place)
+
+Why It Is Called Insertion Sort?
+- Because each element is "inserted" into its correct position.
+
+Steps Example for [5,4,3,2,1]:
+Pass 1: Insert 4 → [4,5,3,2,1]
+Pass 2: Insert 3 → [3,4,5,2,1]
+Pass 3: Insert 2 → [2,3,4,5,1]
+Pass 4: Insert 1 → [1,2,3,4,5]
+
+Pseudocode:
+for i = 1 to n-1:
+    temp = arr[i]
+    j = i - 1
+    while j >= 0 and arr[j] > temp:
+        arr[j+1] = arr[j]
+        j--
+    arr[j+1] = temp
+
+Output:
+Sorted array in ascending order.
+
+===========================
