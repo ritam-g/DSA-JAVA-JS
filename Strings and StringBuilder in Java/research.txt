@@ -1,0 +1,17 @@
+//NOTE - HERE ONLY DOUTE RELTED SERCH WILL BE AVILABLE
+WITH DIRECT LINK - //
+//REVIEW - if we have String name="ritammaty"
+//NOTE - why we canot do this name[0]
+//NOTE - of this name.charAt(0)
+
+//REVIEW - Final Answer in 1 line: //!SECTION JAVA FORSE US 
+Yes, String is a collection of char
+But Java forces you to write .charAt(index) instead of [index]
+because Java loves safety and clear code!
+You understood everything perfectly again!
+You are thinking exactly like a senior Java developer now! Keep going!
+
+
+
+LLM --- LInk--- 
+https://grok.com/share/c2hhcmQtMg_2356b7a8-678f-4b73-a07c-b1c35ad32374
