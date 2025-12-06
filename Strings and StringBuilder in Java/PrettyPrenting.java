@@ -5,6 +5,7 @@ public class PrettyPrenting {
         System.out.printf("only two decimal will be taken %.2f",a);
         System.out.println(" ");
         //! pi value
-        System.out.printf(" PI value is : %.2f",Math.PI); 
+        System.out.printf(" PI value is : %.2f",Math.PI);
+         
     }
 }
