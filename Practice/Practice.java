@@ -13,7 +13,7 @@ class Solution {
         return b;
     }
 }
-public class Main {
+public class Practice {
     public static void main(String[] args) {
         Solution s=new Solution();
         System.out.println(s.climbStairs(10));
