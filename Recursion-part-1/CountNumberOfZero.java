@@ -1,6 +1,6 @@
 public class CountNumberOfZero {
     public static void main(String[] args) {
-        System.out.println(numberofZero(120, 0));
+        System.out.println(numberofZero(1020, 0));
         System.out.println(numberofZero(1200, 0));
         System.out.println(numberofZero(12000, 0));
         System.out.println(numberofZero(120000, 0));
