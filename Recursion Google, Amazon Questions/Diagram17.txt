@@ -1,0 +1,14 @@
+                  Root (process="", unProcess="23")
+                             |
+                  digit='2' → letters 'a','b','c'
+                  /             |             \
+            choose 'a'      choose 'b'      choose 'c'
+                 |                 |                 |
+        (process="a",      (process="b",      (process="c",
+         unProcess="3")     unProcess="3")     unProcess="3")
+                 |                 |                 |
+          digit='3' → 'd','e','f'   same          same
+          /      |      \          / | \          / | \
+      'ad'    'ae'    'af'     'bd' 'be' 'bf'   'cd' 'ce' 'cf'
+        |       |       |        |   |   |       |   |   |
+      PRINT   PRINT   PRINT    PRINT PRINT PRINT  PRINT PRINT PRINT
