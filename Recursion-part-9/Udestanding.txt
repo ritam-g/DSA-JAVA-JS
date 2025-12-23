@@ -1,0 +1,79 @@
+Here is a clean, text-based diagram (ASCII art) of the recursion tree for your maze restriction code with a 3×3 grid (start at (0,0), target at (2,2), blocked cell at (1,1)).
+The code only allows Down (D) and Right (R) moves.
+Blocked cell: (1,1) = false → cannot visit
+Valid paths that reach (2,2):
+                        text(0,0)
+                           /  \
+                          /    \
+                         /      \
+                        /        \
+                       D          R
+                      /            \
+                 (1,0)              (0,1)
+                 /   \               /   \
+                D     R             D     R
+               /       \           /       \
+          (2,0)         X       (1,1)       (0,2)
+           |          (blocked)   |           |
+           R             X        R           D
+           |                     |           /
+         (2,1)                 (1,2)     (1,2)
+           |                     |         |
+           R                     R         R
+           |                     |         |
+         (2,2)                 (2,2)     (2,2)
+        PRINT                  PRINT      PRINT
+        "DDRR"                 "DRDR"     "DRRD"
+Explanation:
+
+From (0,0):
+Down → (1,0)
+Right → (0,1)
+
+From (1,0):
+Down → (2,0) → Right → (2,1) → Right → (2,2) → DDRR
+Right → (1,1) → blocked → dead end (X)
+
+From (0,1):
+Down → (1,1) → blocked → dead end (X)
+Right → (0,2) → Down → (1,2) → Right → (2,2) → DRRD
+Also from (0,1) → Down blocked, but Right → (0,2) → Down → (1,2) → Right → (2,2)
+
+
+Wait — actually full valid paths are:
+Final Clean List of Valid Paths (Printed by your code):
+textDDRR   → Down, Down, Right, Right     : (0,0) → (1,0) → (2,0) → (2,1) → (2,2)
+DRDR   → Down, Right, Down, Right    : (0,0) → (1,0) → (1,1 blocked? wait no — wait, this path tries to go to blocked)
+Wait — DRDR would go: (0,0)D→(1,0)R→(1,1) blocked → invalid
+Actually correct valid paths (avoiding (1,1)):
+textDDRR
+DRRD
+RDDR
+Correct Clean Recursion Tree (only valid branches):
+                    text(0,0)
+                   /     \
+                  D       R
+                 /         \
+             (1,0)          (0,1)
+             /   \           /   \
+            D     R         D     R
+           /       \       /       \
+      (2,0)         X  (1,1)       (0,2)
+       |          blocked   \           \
+       R                     R           D
+       |                     |           |
+     (2,1)                 (1,2)       (1,2)
+       |                     |           |
+       R                     R           R
+       |                     |           |
+     (2,2)                 (2,2)       (2,2)
+
+   DDRR                   RDRD          DRRD
+                          (wait — RDRD goes through (1,1)? No:
+                          From (0,1)R→(0,2)D→(1,2)R→(2,2) = DRRD
+Final 3 valid paths printed:
+textDDRR
+DRRD
+RDDR
+Your code correctly prints these 3 paths because it returns early when hitting false cell.
+The diagram shows how recursion explores and backtracks from blocked paths.
