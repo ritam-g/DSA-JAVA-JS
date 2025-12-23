@@ -1,18 +1,15 @@
-let str = 'hello hello';
-let strArray = str.split(" ");
-let res = [];
-
-for (var i = 0; i < strArray.length; i++) {
-    let temp = strArray[i];
+let words="ck bk ak"
+let arr=words.split(" ")
+for (let i = 0; i < arr.length; i++) {
     
-   
-    let capitalized = 
-        temp[0].toUpperCase() +                  
-        temp.slice(1, -1) +                     
-        temp[temp.length - 1].toUpperCase();    
-    
-    console.log(capitalized);
-    res.push(capitalized);
+    // console.log(arr[i][0].charCodeAt());
+    for (let j = 0; j < arr.length-1-i; j++) {
+        if (arr[j][0].charCodeAt()> arr[j+1][0].charCodeAt()) {
+            let temp=arr[j]
+            arr[j]=arr[j+1]
+            arr[j+1]=temp
+        }
+        
+    }
 }
-
-console.log(res.join(' '));  
+console.log(arr.join(" ").toString());
