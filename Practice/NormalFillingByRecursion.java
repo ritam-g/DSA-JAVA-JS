@@ -2,7 +2,7 @@ public class NormalFillingByRecursion {
     public static void main(String[] args) {
         boolean[][] board={
             {false,false,false},
-            {false,false,false},
+            {false,true,false},
             {false,false,false}
         };
         recursion(board, 0);
@@ -21,7 +21,11 @@ public class NormalFillingByRecursion {
             return;
         }
         for (int col = 0; col < board[row].length; col++) {
-            board[row][col]=true;
+            if (!board[row][col]) {
+                board[row][col]=true;
+            }else{
+                board[row][col]=false;
+            }
             
         }
         recursion(board, row+1);
