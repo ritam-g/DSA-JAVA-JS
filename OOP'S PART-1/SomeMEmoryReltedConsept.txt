@@ -1,0 +1,72 @@
+🧠 JAVA MEMORY – ALL IN ONE DIAGRAM
+
+(Normal Object + String + StringBuilder)
+
+┌──────────────────────── STACK ────────────────────────┐
+│                                                         │
+│   p  ───────────────┐                                  │
+│   s  ────────────┐  │                                  │
+│   sb ─────────┐  │  │                                  │
+│               │  │  │                                  │
+└───────────────│──│──│─────────────────────────────────┘
+                │  │  │
+                │  │  │
+                ▼  ▼  ▼
+┌──────────────────────── HEAP ─────────────────────────┐
+│                                                        │
+│   Person Object (MUTABLE)                              │
+│   ┌────────────────────────┐                           │
+│   │ name = "Amit"           │   ← value changed ✔      │
+│   └────────────────────────┘                           │
+│                                                        │
+│   String Pool / Heap                                   │
+│   ┌─────────────┐     ┌─────────────┐                  │
+│   │ "Ritam"     │     │ "Amit"      │                  │
+│   └─────────────┘     └─────────────┘                  │
+│      ↑                 ↑                               │
+│   old value        new object created ✔                │
+│                                                        │
+│   StringBuilder Object (MUTABLE)                        │
+│   ┌────────────────────────┐                           │
+│   │ "Hello World"           │ ← modified same object ✔ │
+│   └────────────────────────┘                           │
+│                                                        │
+└────────────────────────────────────────────────────────┘
+
+🧩 Code Mapping (jo diagram dikhata hai)
+1️⃣ Normal Class (Mutable)
+Person p = new Person();
+p.name = "Ritam";
+p.name = "Amit";
+
+
+✔️ Same object
+✔️ Heap me value change
+
+2️⃣ String (Immutable)
+String s = "Ritam";
+s = "Amit";
+
+
+❌ Old string change nahi hoti
+✔️ New object banta hai
+✔️ Reference shift hota hai
+
+3️⃣ StringBuilder (Mutable)
+StringBuilder sb = new StringBuilder("Hello");
+sb.append(" World");
+
+
+✔️ Same object modify hota hai
+✔️ No new object
+
+🔥 ONE-LINE SUMMARY (EXAM READY)
+
+Heap memory modifies objects only if they are mutable.
+Immutable objects like String create new objects instead of changing existing ones.
+
+🧠 Final Rule (life-long yaad rakhna)
+Mutable  → same heap object change
+Immutable → new heap object create
+Reference → stack me hota hai
+Object → heap me hota hai
