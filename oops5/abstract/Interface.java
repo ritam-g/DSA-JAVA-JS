@@ -11,6 +11,8 @@ public class Interface implements parent,chile{
         Interface i=new Interface();
         i.call();
         i.display();
+
+        // learning had i dont have tome only 1 day left
     }
     public void call(){
         System.out.println("hellow");
