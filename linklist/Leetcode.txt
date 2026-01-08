@@ -1,0 +1,23 @@
+✅ LeetCode Linked List Problems You’ve Solved / Practiced
+
+Reverse Linked List / K‑Group Reversal
+
+LC 206: Reverse a linked list (basic, iterative & recursive) ✅
+
+LC 25: Reverse nodes in k‑group ✅
+
+Palindrome Linked List
+
+LC 234: Checked palindrome using slow/fast pointers ✅
+
+Rotate List
+
+LC 61: Rotate list by k positions (we just debugged your “no cycle” version) ✅
+
+Merge / Sorting Concepts
+
+LC 148: Sort linked list (merge sort) — we wrote full recursive solution ✅
+
+Merge Two Sorted Lists
+
+LC 21: Practiced merge function (as part of sort and k-group merge) ✅

@@ -53,7 +53,7 @@ public class SinglyLinkedList {
         node.next = null;
 
     // update tail only once (original head)
-    tail = node;
+        tail = node;
 
 
     }
