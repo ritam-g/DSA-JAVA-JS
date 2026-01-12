@@ -42,12 +42,14 @@ class BT {
     }
 
     private void inorder(tree node, String indent) {
-    if (node == null) return;
-
-    System.out.println(indent + node.value);
-    inorder(node.left, indent + "L-- ");
-    inorder(node.right, indent + "R-- ");
-}
+        if(node==null){
+            return;
+        }
+    System.out.print(indent+node.value);
+    inorder(node.left, indent+"L-> ");
+    System.out.println(" ");
+    inorder(node.right, indent+"R->");
+    }
 
 }
 
