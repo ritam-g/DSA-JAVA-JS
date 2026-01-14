@@ -1,4 +1,5 @@
 // Node of BST
+package tree.binarytree;
 class Node {
     int value;
     Node left, right;
