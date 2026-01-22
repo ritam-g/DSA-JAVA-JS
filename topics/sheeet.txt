@@ -1,0 +1,75 @@
+| Topic                       | Frequency | Examples                                       | Practice Count |
+| --------------------------- | --------- | ---------------------------------------------- | -------------- |
+| Arrays/Strings              | 40%       | Two Sum, Longest Substring, Merge Intervals    | 50 iquanta​    |
+| Linked Lists                | 15%       | Reverse List, Cycle Detection, Merge Two Lists | 25 techgig​    |
+| Trees/BST                   | 15%       | Inorder Traversal, Max Depth, Validate BST     | 25 techgig​    |
+| Hashing/Sorting             | 15%       | Subarray Sum, Binary Search Variants           | 25 studocu​    |
+| Stacks/Queues/Graphs Basics | 10%       | Parentheses, BFS Intro (rare)                  | 15 reddit​     |
+| Recursion/DP Intro          | 5%        | Fibonacci, Subsets (startup-specific)          | 10 studocu​    |
+
+
+===== 30-DAY LEETCODE DSA SHEET FOR 5-10 LPA (STARTUPS + SERVICES) =====
+TOTAL: 180 PROBLEMS | 6/DAY | YOUR LL/TREES MASTERY = 55 PROBLEM HEADSTART
+ACCESS: leetcode.com/studyplan/top-interview-150/ + neetcode.io/roadmap
+
+WEEK 1: FOUNDATION (DAYS 1-7)
+DAY 01 - ARRAYS BASICS: 1,26,121,217,53
+DAY 02 - STRINGS: 3,242,125,344,680  
+DAY 03 - HASHMAP: 1,49,560,347,438
+DAY 04 - TWO POINTERS: 11,167,15,125,283
+DAY 05 - LINKED LIST: 206,21,19,141,142
+DAY 06 - TREES TRAVERSAL: 104,100,101,102,94
+DAY 07 - TREES BST: 98,700,701,450,105
+
+WEEK 2: INTERMEDIATE PATTERNS (DAYS 8-14)
+DAY 08 - STACK/QUEUE: 20,155,739,150,84
+DAY 09 - SLIDING WINDOW: 3,76,239,438,567
+DAY 10 - BINARY SEARCH: 33,34,153,278,162
+DAY 11 - SORTING: 75,88,56,973,912
+DAY 12 - HEAP/GREEDY: 703,973,215,253,763
+DAY 13 - LL ADVANCED: 2,25,86,234,237
+DAY 14 - TREE ADVANCED: 105,114,124,199,236
+
+WEEK 3: ALGORITHM PATTERNS (DAYS 15-21)
+DAY 15 - BACKTRACKING: 78,46,39,17,131
+DAY 16 - RECURSION: 509,70,746,112,129
+DAY 17 - DP 1D: 70,746,198,213,91
+DAY 18 - GRAPHS BFS: 994,200,1091,1162,542
+DAY 19 - GRAPHS DFS: 695,130,547,841,200
+DAY 20 - MATRIX: 48,54,73,289,498
+DAY 21 - MIXED MEDIUM: 15,11,42,128,238
+
+WEEK 4: MASTERY + MOCKS (DAYS 22-30)
+DAY 22 - INTERVALS: 57,452,435,252,986
+DAY 23 - PREFIX SUM: 303,560,238,724,1177
+DAY 24 - REVISIT WEEK 1 WEAKEST 6
+DAY 25 - REVISIT WEEK 2 WEAKEST 6
+DAY 26 - MOCK OA #1: 1,121,206,104,20 + NEW
+DAY 27 - MOCK OA #2: 3,49,98,11,155 + NEW
+DAY 28 - STARTUP HARD: 124,23,42,76,236
+DAY 29 - SERVICE EASY: 75,88,217,242,125
+DAY 30 - FINAL REVIEW: TOP 10 MISSED + 2 OAs
+
+=== DAILY SCHEDULE (2-3 HOURS) ===
+09:00-10:00 - NeetCode.io video (pattern)
+10:00-12:00 - Solve 6 problems (45min each)
+12:00-13:00 - Review solutions + notebook
+Evening - 1 revisit from yesterday
+
+=== TOPIC BREAKDOWN (5-10 LPA PERFECT) ===
+ARRAYS/STRINGS/HASHMAP: 45 problems (40%)
+LINKED LIST/TREES: 30 problems (25%) ← YOUR STRENGTH
+STACK/WINDOW/SEARCH: 25 problems (20%)
+DP/GRAPHS/BACKTRACK: 30 problems (15%)
+
+=== COMPANY MAPPING ===
+SERVICE COMPANIES (COGNIZANT/HCL): Days 1-4, 29
+STARTUPS (FINTECH/SAAS): Days 5-14, 28
+MID-TIER (ZOHO/MINDTREE): Days 15-27
+
+=== PROGRESS TRACKER ===
+Target: 85% acceptance rate by Day 30
+Weekly check: 42 problems/week
+Use LeetCode stats + delete solved daily
+
+SAVE AS "30DAY_DSA_SHEET.txt" - START TODAY WITH #1 (TWO SUM)!
