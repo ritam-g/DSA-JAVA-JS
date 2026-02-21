@@ -9,18 +9,18 @@ Rotate Array by K – GFG                                                       
 Move Zeros to End – LeetCode                						1                                         
 Union of Two Arrays – GFG                                                               1
 Missing Number – LeetCode
-Max Consecutive Ones – LeetCode
+Max Consecutive Ones – LeetCode                                         
 Find Duplicate Number – LeetCode
 Reverse String – LeetCode                                                                 1
 Check Palindrome – GFG
 Valid Anagram – LeetCode
-Remove Vowels – GFG
+Remove Vowels – GFG                                                                       1                                      
 First Non-Repeating Character – GFG
-Reverse Linked List – LeetCode
-Middle of Linked List – LeetCode
-Detect Loop – GFG
-Length of Loop – GFG
-Remove Loop – GFG
+Reverse Linked List – LeetCode                                                      1
+Middle of Linked List – LeetCode                                                  1
+Detect Loop – GFG                                                                           1
+Length of Loop – GFG                                                                      1
+Remove Loop – GFG                                                                       not understand practicemore 
 Implement Stack using Array – GFG
 Implement Queue using Array – GFG
 Valid Parentheses – LeetCode
