@@ -43,8 +43,8 @@ Two Sum – LeetCode
 Three Sum – LeetCode
 Longest Consecutive Sequence – LeetCode
 Majority Element – LeetCode
-Rearrange Array Alternately – GFG
-Merge Intervals – LeetCode
+Rearrange Array Alternately – GFG                                                            ->>> Done till here 
+Merge Intervals – LeetCode                                       
 Set Matrix Zeroes – LeetCode
 Stock Buy and Sell – GFG
 Longest Substring Without Repeating Characters – LeetCode
