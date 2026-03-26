@@ -43,12 +43,12 @@ Two Sum – LeetCode
 Three Sum – LeetCode
 Longest Consecutive Sequence – LeetCode
 Majority Element – LeetCode
-Rearrange Array Alternately – GFG                                                            ->>> Done till here 
-Merge Intervals – LeetCode                                       
+Rearrange Array Alternately – GFG                                                            
+Merge Intervals – LeetCode                                                                     1       
 Set Matrix Zeroes – LeetCode
-Stock Buy and Sell – GFG
-Longest Substring Without Repeating Characters – LeetCode
-Maximum Sum Subarray of Size K – GFG
+Stock Buy and Sell – GFG                                                                        1                                          
+Longest Substring Without Repeating Characters – LeetCode                                       ->>> Done till here 
+Maximum Sum Subarray of Size K – GFG                                                     
 Count Occurrences of Anagram – GFG
 Fruit Into Baskets – LeetCode
 Longest K Unique Characters – GFG
