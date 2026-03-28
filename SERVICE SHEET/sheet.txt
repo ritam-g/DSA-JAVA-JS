@@ -47,9 +47,9 @@ Rearrange Array Alternately – GFG
 Merge Intervals – LeetCode                                                                     1       
 Set Matrix Zeroes – LeetCode
 Stock Buy and Sell – GFG                                                                        1                                          
-Longest Substring Without Repeating Characters – LeetCode                                       ->>> Done till here 
-Maximum Sum Subarray of Size K – GFG                                                     
-Count Occurrences of Anagram – GFG
+Longest Substring Without Repeating Characters – LeetCode                                       
+Maximum Sum Subarray of Size K – GFG                                                            1                               
+Count Occurrences of Anagram – GFG                                                              1   ->>> Done till here 
 Fruit Into Baskets – LeetCode
 Longest K Unique Characters – GFG
 Longest Palindromic Substring – LeetCode
@@ -57,7 +57,7 @@ String Compression – LeetCode
 Roman to Integer – LeetCode
 Group Anagrams – LeetCode
 Minimum Add to Make Parentheses Valid – LeetCode
-Add Two Numbers – LeetCode
+Add Two Numbers – LeetCode                                                                       1(I did this because its easy in medium )
 Intersection Point of LL – GFG
 Palindrome Linked List – LeetCode
 Rotate Linked List – LeetCode
@@ -70,11 +70,11 @@ Daily Temperatures – LeetCode
 Sliding Window Maximum – LeetCode
 First Negative in Window – GFG
 Circular Queue – GFG
-Subsets – LeetCode
+Subsets – LeetCode                                                                               1(I did this because its easy in medium )
 Permutations – LeetCode
 Combination Sum – LeetCode
 Generate Parentheses – LeetCode
-Inorder Traversal – LeetCode
+Inorder Traversal – LeetCode                                                                      1(I did this because its easy in medium )
 Level Order Traversal – LeetCode
 Height of Binary Tree – GFG
 Diameter of Binary Tree – LeetCode
