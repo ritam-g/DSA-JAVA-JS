@@ -58,8 +58,8 @@ Roman to Integer – LeetCode
 Group Anagrams – LeetCode
 Minimum Add to Make Parentheses Valid – LeetCode
 Add Two Numbers – LeetCode                                                                       1(I did this because its easy in medium )
-Intersection Point of LL – GFG
-Palindrome Linked List – LeetCode
+Intersection Point of LL – GFG                                                                   1(I did this because its easy in medium )                                              
+Palindrome Linked List – LeetCode                                      
 Rotate Linked List – LeetCode
 Remove Nth Node from End – LeetCode
 Next Greater Element II – LeetCode
