@@ -50,7 +50,7 @@ Stock Buy and Sell – GFG                                                      
 Longest Substring Without Repeating Characters – LeetCode                                       
 Maximum Sum Subarray of Size K – GFG                                                            1                               
 Count Occurrences of Anagram – GFG                                                              1   ->>> Done till here 
-Fruit Into Baskets – LeetCode
+Fruit Into Baskets – LeetCode                                                                   good question my brain did not catch this take help from gpt
 Longest K Unique Characters – GFG
 Longest Palindromic Substring – LeetCode
 String Compression – LeetCode
@@ -59,7 +59,7 @@ Group Anagrams – LeetCode
 Minimum Add to Make Parentheses Valid – LeetCode
 Add Two Numbers – LeetCode                                                                       1(I did this because its easy in medium )
 Intersection Point of LL – GFG                                                                   1(I did this because its easy in medium )                                              
-Palindrome Linked List – LeetCode                                      
+Palindrome Linked List – LeetCode                                                                1(I did this because its easy in medium )  
 Rotate Linked List – LeetCode
 Remove Nth Node from End – LeetCode
 Next Greater Element II – LeetCode
