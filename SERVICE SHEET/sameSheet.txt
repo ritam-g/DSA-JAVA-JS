@@ -1,0 +1,135 @@
+Service-Based DSA Sheet - Progress Tracker
+
+✅ = Done     🔄 = Need Practice     ❓ = Not Started     📝 = Note
+
+══════════════════════════════════════════════════════════════
+
+Easy :-
+✅ Largest Element in Array – GFG
+✅ Second Largest Element – GFG
+✅ Check if Array is Sorted – GFG
+✅ Remove Duplicates from Sorted Array – LeetCode
+🔄 Rotate Array by K – GFG                  (try to practice more)
+✅ Move Zeros to End – LeetCode
+✅ Union of Two Arrays – GFG
+✅ Missing Number – LeetCode
+❓ Max Consecutive Ones – LeetCode
+✅ Find Duplicate Number – LeetCode
+✅ Reverse String – LeetCode
+✅ Check Palindrome – GFG
+✅ Valid Anagram – LeetCode
+✅ Remove Vowels – GFG
+❓ First Non-Repeating Character – GFG
+✅ Reverse Linked List – LeetCode
+✅ Middle of Linked List – LeetCode
+✅ Detect Loop – GFG
+✅ Length of Loop – GFG
+🔄 Remove Loop – GFG                        (not understand, practice more)
+✅ Implement Stack using Array – GFG
+✅ Implement Queue using Array – GFG
+✅ Valid Parentheses – LeetCode
+🔄 Next Greater Element – GFG
+✅ Stack using Queue – LeetCode
+✅ Binary Search – GFG
+✅ Linear Search – GFG
+✅ Selection Sort – GFG
+✅ Bubble Sort – GFG
+✅ Insertion Sort – GFG
+✅ Count Digits – GFG
+✅ GCD of Two Numbers – GFG
+✅ Armstrong Number – GFG
+✅ Prime Number Check – GFG
+✅ Power of Two – LeetCode
+
+══════════════════════════════════════════════════════════════
+
+Medium :-
+✅ Kadane’s Algorithm – GFG
+❓ Subarray Sum Equals K – LeetCode
+✅ Two Sum – LeetCode
+❓ Three Sum – LeetCode
+✅ Longest Consecutive Sequence – LeetCode
+❓ Majority Element – LeetCode
+❓ Rearrange Array Alternately – GFG
+✅ Merge Intervals – LeetCode
+❓ Set Matrix Zeroes – LeetCode
+✅ Stock Buy and Sell – GFG
+❓ Longest Substring Without Repeating Characters – LeetCode
+✅ Maximum Sum Subarray of Size K – GFG
+✅ Count Occurrences of Anagram – GFG               ← Done till here
+📝 Fruit Into Baskets – LeetCode                    (good question, took help from GPT)
+✅ Longest K Unique Characters – GFG
+📝 Longest Palindromic Substring – LeetCode         (REVIEW)
+✅ String Compression – LeetCode
+✅ Roman to Integer – LeetCode
+✅ Group Anagrams – LeetCode
+❓ Minimum Add to Make Parentheses Valid – LeetCode
+✅ Add Two Numbers – LeetCode                       (did because easy in medium)
+✅ Intersection Point of LL – GFG                    (did because easy in medium)
+✅ Palindrome Linked List – LeetCode                (did because easy in medium)
+❓ Rotate Linked List – LeetCode
+❓ Remove Nth Node from End – LeetCode
+❓ Next Greater Element II – LeetCode
+❓ Stock Span Problem – GFG
+❓ Min Stack – LeetCode
+❓ Largest Rectangle in Histogram – LeetCode
+❓ Daily Temperatures – LeetCode
+❓ Sliding Window Maximum – LeetCode
+❓ First Negative in Window – GFG
+❓ Circular Queue – GFG
+✅ Subsets – LeetCode                               (did because easy in medium)
+❓ Permutations – LeetCode
+❓ Combination Sum – LeetCode
+❓ Generate Parentheses – LeetCode
+✅ Inorder Traversal – LeetCode                     (did because easy in medium)
+❓ Level Order Traversal – LeetCode
+✅ Height of Binary Tree – GFG
+✅ Diameter of Binary Tree – LeetCode
+❓ Check Balanced Tree – LeetCode
+❓ LCA in Binary Tree – LeetCode
+✅ Search in BST – LeetCode
+❓ Insert in BST – LeetCode
+❓ Validate BST – LeetCode
+❓ BFS of Graph – GFG
+❓ DFS of Graph – GFG
+❓ Detect Cycle in Undirected Graph – GFG
+❓ Number of Islands – LeetCode
+❓ Rotten Oranges – GFG
+❓ Activity Selection – GFG
+❓ Job Sequencing – GFG
+❓ Minimum Platforms – GFG
+📝 Fibonacci DP – GFG                               (NOTE - easy one)
+❓ Climbing Stairs – LeetCode
+❓ House Robber – LeetCode
+❓ Coin Change – LeetCode
+❓ 0/1 Knapsack – GFG
+❓ LCS – GFG
+❓ Single Number – LeetCode
+❓ Count Set Bits – GFG
+❓ Power Set using Bits – GFG
+❓ Search in Rotated Sorted Array – LeetCode
+❓ Kth Largest Element – LeetCode
+❓ Merge Sort – GFG
+❓ Quick Sort – GFG
+
+══════════════════════════════════════════════════════════════
+
+Hard :-
+❓ Trapping Rain Water – LeetCode
+❓ Minimum Window Substring – LeetCode
+❓ Count Inversions – GFG
+❓ Reverse Nodes in K Group – LeetCode
+❓ Copy List with Random Pointer – LeetCode
+❓ Max rectangle in Binary Matrix – GFG
+❓ Binary Tree Maximum Path Sum – LeetCode
+❓ Serialize and Deserialize Tree – LeetCode
+❓ Dijkstra Algorithm – GFG
+❓ Bellman Ford – GFG
+❓ Floyd Warshall – GFG
+❓ Topological Sort – GFG
+❓ Course Schedule – LeetCode
+❓ Edit Distance – LeetCode
+❓ Word Break – LeetCode
+❓ Longest Increasing Subsequence – LeetCode
+❓ Matrix Chain Multiplication – GFG
+❓ Partition Equal Subset Sum – LeetCode

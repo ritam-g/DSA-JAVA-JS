@@ -1,24 +1,24 @@
 
 Service-Based DSA Sheet                                                                      practice number
 Easy :- 
-Largest Element in Array – GFG                                                           1
+Largest Element in Array – GFG                              1                                              1
 Second Largest Element – GFG								1
 Check if Array is Sorted – GFG								1
 Remove Duplicates from Sorted Array – LeetCode                    1
 Rotate Array by K – GFG                                                                             try to practice more
 Move Zeros to End – LeetCode                						1                                         
 Union of Two Arrays – GFG                                                               1
-Missing Number – LeetCode
+Missing Number – LeetCode                                           1
 Max Consecutive Ones – LeetCode                                         
-Find Duplicate Number – LeetCode
-Reverse String – LeetCode                                                                 1
-Check Palindrome – GFG
-Valid Anagram – LeetCode
-Remove Vowels – GFG                                                                       1                                      
-First Non-Repeating Character – GFG
-Reverse Linked List – LeetCode                                                      1
-Middle of Linked List – LeetCode                                                  1
-Detect Loop – GFG                                                                           1
+Find Duplicate Number – LeetCode                                    1
+Reverse String – LeetCode                                           1                                                     1
+Check Palindrome – GFG                                               1
+Valid Anagram – LeetCode                                          1
+Remove Vowels – GFG                                               1                                                               1                                      
+First Non-Repeating Character – GFG   
+Reverse Linked List – LeetCode                                                                          1
+Middle of Linked List – LeetCode                                                                                 1
+Detect Loop – GFG                                                                                                                  1
 Length of Loop – GFG                                                                      1
 Remove Loop – GFG                                                                       not understand practicemore 
 Implement Stack using Array – GFG
@@ -76,11 +76,11 @@ Combination Sum – LeetCode
 Generate Parentheses – LeetCode
 Inorder Traversal – LeetCode                                                                      1(I did this because its easy in medium )
 Level Order Traversal – LeetCode
-Height of Binary Tree – GFG
-Diameter of Binary Tree – LeetCode
+Height of Binary Tree – GFG                                                                         1
+Diameter of Binary Tree – LeetCode                                                                   1
 Check Balanced Tree – LeetCode
 LCA in Binary Tree – LeetCode
-Search in BST – LeetCode
+Search in BST – LeetCode                                                                            1
 Insert in BST – LeetCode
 Validate BST – LeetCode
 BFS of Graph – GFG
@@ -91,7 +91,7 @@ Rotten Oranges – GFG
 Activity Selection – GFG
 Job Sequencing – GFG
 Minimum Platforms – GFG
-Fibonacci DP – GFG
+Fibonacci DP – GFG                                                                                 //NOTE - easy one
 Climbing Stairs – LeetCode
 House Robber – LeetCode
 Coin Change – LeetCode
