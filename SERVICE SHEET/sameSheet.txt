@@ -69,7 +69,7 @@ Medium :-
 ✅ Palindrome Linked List – LeetCode                (did because easy in medium)
 ✅ Rotate Linked List – LeetCode
 ❓ Remove Nth Node from End – LeetCode
-❓ Next Greater Element II – LeetCode
+🔄  Next Greater Element II – LeetCode
 ❓ Stock Span Problem – GFG
 ❓ Min Stack – LeetCode
 ❓ Largest Rectangle in Histogram – LeetCode

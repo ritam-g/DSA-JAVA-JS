@@ -62,7 +62,7 @@ Intersection Point of LL – GFG                                                
 Palindrome Linked List – LeetCode                                                                1(I did this because its easy in medium )  
 Rotate Linked List – LeetCode                                                                     1
 Remove Nth Node from End – LeetCode
-Next Greater Element II – LeetCode
+Next Greater Element II – LeetCode                                                                1(need to practic more)
 Stock Span Problem – GFG
 Min Stack – LeetCode
 Largest Rectangle in Histogram – LeetCode
