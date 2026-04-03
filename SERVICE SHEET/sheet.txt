@@ -91,7 +91,7 @@ Rotten Oranges – GFG
 Activity Selection – GFG
 Job Sequencing – GFG
 Minimum Platforms – GFG
-Fibonacci DP – GFG                                                                                 //NOTE - easy one
+Fibonacci DP – GFG                                                                                 //NOTE - easy one done  return fib(n-1)+fib(n-2)
 Climbing Stairs – LeetCode
 House Robber – LeetCode
 Coin Change – LeetCode
