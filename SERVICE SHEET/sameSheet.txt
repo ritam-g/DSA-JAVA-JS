@@ -63,11 +63,11 @@ Medium :-
 ✅ String Compression – LeetCode
 ✅ Roman to Integer – LeetCode
 ✅ Group Anagrams – LeetCode
-❓ Minimum Add to Make Parentheses Valid – LeetCode
+✅ Minimum Add to Make Parentheses Valid – LeetCode
 ✅ Add Two Numbers – LeetCode                       (did because easy in medium)
 ✅ Intersection Point of LL – GFG                    (did because easy in medium)
 ✅ Palindrome Linked List – LeetCode                (did because easy in medium)
-❓ Rotate Linked List – LeetCode
+✅ Rotate Linked List – LeetCode
 ❓ Remove Nth Node from End – LeetCode
 ❓ Next Greater Element II – LeetCode
 ❓ Stock Span Problem – GFG

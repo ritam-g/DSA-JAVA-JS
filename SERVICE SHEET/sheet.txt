@@ -56,11 +56,11 @@ Longest Palindromic Substring – LeetCode                                      
 String Compression – LeetCode                                                                    1
 Roman to Integer – LeetCode                                                                     1
 Group Anagrams – LeetCode                                                                       1
-Minimum Add to Make Parentheses Valid – LeetCode
+Minimum Add to Make Parentheses Valid – LeetCode                                                1
 Add Two Numbers – LeetCode                                                                       1(I did this because its easy in medium )
 Intersection Point of LL – GFG                                                                   1(I did this because its easy in medium )                                              
 Palindrome Linked List – LeetCode                                                                1(I did this because its easy in medium )  
-Rotate Linked List – LeetCode
+Rotate Linked List – LeetCode                                                                     1
 Remove Nth Node from End – LeetCode
 Next Greater Element II – LeetCode
 Stock Span Problem – GFG
