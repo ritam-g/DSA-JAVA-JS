@@ -78,9 +78,9 @@ Medium :-
 ❓ First Negative in Window – GFG
 ❓ Circular Queue – GFG
 ✅ Subsets – LeetCode                               (did because easy in medium)
-❓ Permutations – LeetCode
+✅ Permutations – LeetCode
 ❓ Combination Sum – LeetCode
-❓ Generate Parentheses – LeetCode
+✅ Generate Parentheses – LeetCode
 ✅ Inorder Traversal – LeetCode                     (did because easy in medium)
 ❓ Level Order Traversal – LeetCode
 ✅ Height of Binary Tree – GFG

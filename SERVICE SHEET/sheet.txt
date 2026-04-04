@@ -71,9 +71,9 @@ Sliding Window Maximum – LeetCode
 First Negative in Window – GFG
 Circular Queue – GFG
 Subsets – LeetCode                                                                               1(I did this because its easy in medium )
-Permutations – LeetCode
-Combination Sum – LeetCode
-Generate Parentheses – LeetCode
+Permutations – LeetCode                                                                          1
+Combination Sum – LeetCode                                                                       1
+Generate Parentheses – LeetCode                                                                     1
 Inorder Traversal – LeetCode                                                                      1(I did this because its easy in medium )
 Level Order Traversal – LeetCode
 Height of Binary Tree – GFG                                                                         1
