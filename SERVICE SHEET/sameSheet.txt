@@ -82,11 +82,11 @@ Medium :-
 ❓ Combination Sum – LeetCode
 ✅ Generate Parentheses – LeetCode
 ✅ Inorder Traversal – LeetCode                     (did because easy in medium)
-❓ Level Order Traversal – LeetCode
+✅ Level Order Traversal – LeetCode
 ✅ Height of Binary Tree – GFG
 ✅ Diameter of Binary Tree – LeetCode
 ❓ Check Balanced Tree – LeetCode
-❓ LCA in Binary Tree – LeetCode
+✅ LCA in Binary Tree – LeetCode
 ✅ Search in BST – LeetCode
 ❓ Insert in BST – LeetCode
 ❓ Validate BST – LeetCode

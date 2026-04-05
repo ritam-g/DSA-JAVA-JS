@@ -75,12 +75,12 @@ Permutations – LeetCode                                                       
 Combination Sum – LeetCode                                                                       1
 Generate Parentheses – LeetCode                                                                     1
 Inorder Traversal – LeetCode                                                                      1(I did this because its easy in medium )
-Level Order Traversal – LeetCode
-Height of Binary Tree – GFG                                                                         1
-Diameter of Binary Tree – LeetCode                                                                   1
+Level Order Traversal – LeetCode                                                                   1
+Height of Binary Tree – GFG                                                                         1*2
+Diameter of Binary Tree – LeetCode                                                                    1*2
 Check Balanced Tree – LeetCode
-LCA in Binary Tree – LeetCode
-Search in BST – LeetCode                                                                            1
+LCA in Binary Tree – LeetCode                                                                        1
+Search in BST – LeetCode                                                                            1*2
 Insert in BST – LeetCode
 Validate BST – LeetCode
 BFS of Graph – GFG
