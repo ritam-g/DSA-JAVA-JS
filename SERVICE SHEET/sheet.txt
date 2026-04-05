@@ -73,7 +73,7 @@ Circular Queue – GFG
 Subsets – LeetCode                                                                               1(I did this because its easy in medium )
 Permutations – LeetCode                                                                          1
 Combination Sum – LeetCode                                                                       1
-Generate Parentheses – LeetCode                                                                     1
+Generate Parentheses – LeetCode                                                                     1*2
 Inorder Traversal – LeetCode                                                                      1(I did this because its easy in medium )
 Level Order Traversal – LeetCode                                                                   1
 Height of Binary Tree – GFG                                                                         1*2
