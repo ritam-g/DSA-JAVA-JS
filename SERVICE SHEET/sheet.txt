@@ -81,7 +81,7 @@ Diameter of Binary Tree – LeetCode                                            
 Check Balanced Tree – LeetCode
 LCA in Binary Tree – LeetCode                                                                        1
 Search in BST – LeetCode                                                                            1*2
-Insert in BST – LeetCode
+Insert in BST – LeetCode                                                                            1
 Validate BST – LeetCode
 BFS of Graph – GFG
 DFS of Graph – GFG
