@@ -45,7 +45,7 @@ Easy :-
 
 Medium :-
 ✅ Kadane’s Algorithm – GFG
-❓ Subarray Sum Equals K – LeetCode
+✅ Subarray Sum Equals K – LeetCode
 ✅ Two Sum – LeetCode
 ❓ Three Sum – LeetCode
 ✅ Longest Consecutive Sequence – LeetCode
@@ -88,9 +88,9 @@ Medium :-
 ❓ Check Balanced Tree – LeetCode
 ✅ LCA in Binary Tree – LeetCode
 ✅ Search in BST – LeetCode
-❓ Insert in BST – LeetCode
-❓ Validate BST – LeetCode
-❓ BFS of Graph – GFG
+✅ Insert in BST – LeetCode
+✅ Validate BST – LeetCode
+✅  BFS of Graph – GFG
 ❓ DFS of Graph – GFG
 ❓ Detect Cycle in Undirected Graph – GFG
 ❓ Number of Islands – LeetCode

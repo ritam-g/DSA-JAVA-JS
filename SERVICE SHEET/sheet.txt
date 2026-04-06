@@ -37,8 +37,8 @@ Armstrong Number – GFG
 Prime Number Check – GFG
 Power of Two – LeetCode
 Medium :- 
-Kadane’s Algorithm – GFG
-Subarray Sum Equals K – LeetCode
+Kadane’s Algorithm – GFG                                                                         1
+Subarray Sum Equals K – LeetCode                                                                   1
 Two Sum – LeetCode
 Three Sum – LeetCode
 Longest Consecutive Sequence – LeetCode
@@ -82,9 +82,9 @@ Check Balanced Tree – LeetCode
 LCA in Binary Tree – LeetCode                                                                        1
 Search in BST – LeetCode                                                                            1*2
 Insert in BST – LeetCode                                                                            1
-Validate BST – LeetCode
-BFS of Graph – GFG
-DFS of Graph – GFG
+Validate BST – LeetCode                                                                                  1
+BFS of Graph – GFG                                                                                     1
+DFS of Graph – GFG                               
 Detect Cycle in Undirected Graph – GFG
 Number of Islands – LeetCode
 Rotten Oranges – GFG
