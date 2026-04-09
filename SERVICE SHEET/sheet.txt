@@ -97,10 +97,10 @@ House Robber – LeetCode
 Coin Change – LeetCode
 0/1 Knapsack – GFG
 LCS – GFG
-Single Number – LeetCode
+Single Number – LeetCode                                                                            1
 Count Set Bits – GFG
 Power Set using Bits – GFG
-Search in Rotated Sorted Array – LeetCode
+Search in Rotated Sorted Array – LeetCode                                                          1
 Kth Largest Element – LeetCode                                                                     1
 Merge Sort – GFG && LeetCode                                                                            1
 Quick Sort – GFG

@@ -98,16 +98,16 @@ Medium :-
 ❓ Activity Selection – GFG
 ❓ Job Sequencing – GFG
 ❓ Minimum Platforms – GFG
-📝 Fibonacci DP – GFG                               (NOTE - easy one)
+✅ Fibonacci DP – GFG                               (NOTE - easy one)
 ❓ Climbing Stairs – LeetCode
 ❓ House Robber – LeetCode
 ❓ Coin Change – LeetCode
 ❓ 0/1 Knapsack – GFG
 ❓ LCS – GFG
-❓ Single Number – LeetCode
+✅ Single Number – LeetCode
 ❓ Count Set Bits – GFG
 ❓ Power Set using Bits – GFG
-❓ Search in Rotated Sorted Array – LeetCode
+✅ Search in Rotated Sorted Array – LeetCode
 ✅ Kth Largest Element – LeetCode
 ✅ Merge Sort – GFG
 ❓ Quick Sort – GFG
