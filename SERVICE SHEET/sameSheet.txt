@@ -108,8 +108,8 @@ Medium :-
 ❓ Count Set Bits – GFG
 ❓ Power Set using Bits – GFG
 ❓ Search in Rotated Sorted Array – LeetCode
-❓ Kth Largest Element – LeetCode
-❓ Merge Sort – GFG
+✅ Kth Largest Element – LeetCode
+✅ Merge Sort – GFG
 ❓ Quick Sort – GFG
 
 ══════════════════════════════════════════════════════════════

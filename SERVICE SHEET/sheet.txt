@@ -101,8 +101,8 @@ Single Number – LeetCode
 Count Set Bits – GFG
 Power Set using Bits – GFG
 Search in Rotated Sorted Array – LeetCode
-Kth Largest Element – LeetCode
-Merge Sort – GFG
+Kth Largest Element – LeetCode                                                                     1
+Merge Sort – GFG && LeetCode                                                                            1
 Quick Sort – GFG
 Hard :-
 Trapping Rain Water – LeetCode
