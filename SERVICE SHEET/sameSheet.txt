@@ -44,7 +44,7 @@ Easy :-
 ══════════════════════════════════════════════════════════════
 
 Medium :-
-✅ Kadane’s Algorithm – GFG
+✅ Kadane’s Algorithm – GFG                    *2
 ✅ Subarray Sum Equals K – LeetCode
 ✅ Two Sum – LeetCode
 ❓ Three Sum – LeetCode
@@ -98,7 +98,7 @@ Medium :-
 ❓ Activity Selection – GFG
 ❓ Job Sequencing – GFG
 ❓ Minimum Platforms – GFG
-✅ Fibonacci DP – GFG                               (NOTE - easy one)
+✅ Fibonacci DP – GFG                               (NOTE - easy one)*2
 ❓ Climbing Stairs – LeetCode
 ❓ House Robber – LeetCode
 ❓ Coin Change – LeetCode
