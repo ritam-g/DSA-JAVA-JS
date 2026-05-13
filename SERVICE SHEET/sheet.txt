@@ -1,8 +1,8 @@
 
 Service-Based DSA Sheet                                                                      practice number
 Easy :- 
-Largest Element in Array – GFG                              1                                              1
-Second Largest Element – GFG								1*2
+Largest Element in Array – GFG                              1*2                                              1
+Second Largest Element – GFG								1*3
 Check if Array is Sorted – GFG								1
 Remove Duplicates from Sorted Array – LeetCode                    1
 Rotate Array by K – GFG                                           1                                   try to practice more
