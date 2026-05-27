@@ -36,11 +36,11 @@ GCD of Two Numbers – GFG
 Armstrong Number – GFG
 Prime Number Check – GFG
 Power of Two – LeetCode
-Medium :- 
+Medium :-                                                         //REVIEW - MEDIUM SHEET
 Kadane’s Algorithm – GFG                                                                         1
-Subarray Sum Equals K – LeetCode                                                                   1 //NOTE - !done till her for job preparation
-Two Sum – LeetCode
-Three Sum – LeetCode
+Subarray Sum Equals K – LeetCode                                                                   1 
+Two Sum – LeetCode                                                                                     
+Three Sum – LeetCode                                                                               //NOTE - !done till her for job preparation
 Longest Consecutive Sequence – LeetCode
 Majority Element – LeetCode
 Rearrange Array Alternately – GFG                                                            
