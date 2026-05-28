@@ -4,9 +4,9 @@ Easy :-
 Largest Element in Array – GFG                              1*2                                              1
 Second Largest Element – GFG								1*3
 Check if Array is Sorted – GFG								1
-Remove Duplicates from Sorted Array – LeetCode                    1  //NOTE - !done till her for job preparation
-Rotate Array by K – GFG                                           1                                   try to practice more
-Move Zeros to End – LeetCode                						1  *2                                       
+Remove Duplicates from Sorted Array – LeetCode                    1  
+Rotate Array by K – GFG                                           1                
+Move Zeros to End – LeetCode                						1  *2         //NOTE - !done till her for job preparation                               
 Union of Two Arrays – GFG                                           1                                    1
 Missing Number – LeetCode                                           1
 Max Consecutive Ones – LeetCode                                         
