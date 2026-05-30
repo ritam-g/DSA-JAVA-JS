@@ -6,9 +6,9 @@ Second Largest Element – GFG								1*3
 Check if Array is Sorted – GFG								1
 Remove Duplicates from Sorted Array – LeetCode                    1  
 Rotate Array by K – GFG                                           1                
-Move Zeros to End – LeetCode                						1  *2         //NOTE - !done till her for job preparation                               
-Union of Two Arrays – GFG                                           1                                    1
-Missing Number – LeetCode                                           1
+Move Zeros to End – LeetCode                						1  *2         
+Union of Two Arrays – GFG                                           1                                                                 1
+Missing Number – LeetCode                                           1   //NOTE - !done till her for job preparation 
 Max Consecutive Ones – LeetCode                                         
 Find Duplicate Number – LeetCode                                    1
 Reverse String – LeetCode                                           1                                                     1
@@ -40,16 +40,15 @@ Medium :-                                                         //REVIEW - MED
 Kadane’s Algorithm – GFG                                                                         1
 Subarray Sum Equals K – LeetCode                                                                   1 
 Two Sum – LeetCode                                                                                     
-Three Sum – LeetCode                                                                               //NOTE - !done till her for job preparation
-Longest Consecutive Sequence – LeetCode
-Majority Element – LeetCode
+Three Sum – LeetCode                                                                                                                                        
+Majority Element – LeetCode                                                                     //NOTE - !done till her for job preparation 
 Rearrange Array Alternately – GFG                                                            
 Merge Intervals – LeetCode                                                                     1       
 Set Matrix Zeroes – LeetCode
 Stock Buy and Sell – GFG                                                                        1                                          
 Longest Substring Without Repeating Characters – LeetCode                                       
 Maximum Sum Subarray of Size K – GFG                                                            1                               
-Count Occurrences of Anagram – GFG                                                              1   ->>> Done till here 
+Count Occurrences of Anagram – GFG                                                              1  
 Fruit Into Baskets – LeetCode                                                                   good question my brain did not catch this take help from gpt
 Longest K Unique Characters – GFG                                                               1
 Longest Palindromic Substring – LeetCode                                                        //REVIEW - 
