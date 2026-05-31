@@ -56,7 +56,7 @@ String Compression – LeetCode                                                 
 Roman to Integer – LeetCode                                                                     1
 Group Anagrams – LeetCode                                                                       1
 Minimum Add to Make Parentheses Valid – LeetCode                                                1
-Add Two Numbers – LeetCode                                                                       1(I did this because its easy in medium )
+Add Two Numbers – LeetCode                                                                       1(I did this because its easy in medium )//NOTE - done
 Intersection Point of LL – GFG                                                                   1(I did this because its easy in medium )                                              
 Palindrome Linked List – LeetCode                                                                1(I did this because its easy in medium )  
 Rotate Linked List – LeetCode                                                                     1
