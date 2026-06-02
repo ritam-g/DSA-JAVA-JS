@@ -42,7 +42,7 @@ Subarray Sum Equals K – LeetCode                                              
 Two Sum – LeetCode                                                                                     
 Three Sum – LeetCode                                                                                                                                        
 Majority Element – LeetCode                                                                     //NOTE - !done till her for job preparation 
-Rearrange Array Alternately – GFG                                                            
+Rearrange Array Alternately – GFG    //REVIEW - !not done                                                         
 Merge Intervals – LeetCode                                                                     1       
 Set Matrix Zeroes – LeetCode
 Stock Buy and Sell – GFG                                                                        1                                          
