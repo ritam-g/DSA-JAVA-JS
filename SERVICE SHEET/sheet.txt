@@ -41,9 +41,9 @@ Kadane’s Algorithm – GFG                                                    
 Subarray Sum Equals K – LeetCode                                                                   1 
 Two Sum – LeetCode                                                                                     
 Three Sum – LeetCode                                                                                                                                        
-Majority Element – LeetCode                                                                     //NOTE - !done till her for job preparation 
+Majority Element – LeetCode                                                                     
 Rearrange Array Alternately – GFG    //REVIEW - !not done                                                         
-Merge Intervals – LeetCode                                                                     1       
+Merge Intervals – LeetCode                                                                      //NOTE - !done till her for job preparation      
 Set Matrix Zeroes – LeetCode
 Stock Buy and Sell – GFG                                                                        1                                          
 Longest Substring Without Repeating Characters – LeetCode                                       
