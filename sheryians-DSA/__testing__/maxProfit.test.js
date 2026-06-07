@@ -1,4 +1,4 @@
-const maxProfit = require("./maxProfit");
+const maxProfit = require("../main/maxProfit")
 
 describe("Best Time to Buy and Sell Stock", () => {
     test("Example 1", () => {
